@@ -1,0 +1,176 @@
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ============================
+# Unity generated folders
+# ============================
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity cache
+UnityCache/
+UnityPackageManager/
+UnityGenerated/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider & Resharper
+.idea/
+*.sln.iml
+
+# ============================
+# Package Manager
+# ============================
+
+# Ignore package cache except manifest.json & packages-lock.json
+Packages/manifest.json.meta
+Packages/packages-lock.json.meta
+
+# These auto-generate and should not be tracked
+Packages/com.unity.package-manager-ui/
+Packages/com.unity.collab-proxy/
+Packages/com.unity.ide.visualstudio/
+Packages/com.unity.ide.rider/
+
+# ============================
+# Builds
+# ============================
+
+# Don't track built games
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+
+# ============================
+# Crash & Reports
+# ============================
+
+sysinfo.txt
+*.stacktrace
+*.dmp
+
+# ============================
+# TextMesh Pro
+# ============================
+
+TextMesh Pro/Resources/Font Assets/*.asset.meta
+TextMesh Pro/Resources/Sprite Assets/*.asset.meta
+TextMesh Pro/Resources/Style Sheets/*.asset.meta
+
+# ============================
+# Unity Collaborate (obsolete)
+# ============================
+
+.collabignore
+.collab/
+
+# ============================
+# Addressables & ShaderCache
+# ============================
+
+# Addressables
+Assets/AddressableAssetsData/*/build*/
+Assets/AddressableAssetsData/*/cache*/
+
+# Shader cache
+Assets/**/ShaderCache/
+Assets/**/ShaderCache.meta
+
+# ============================
+# Lightmaps & GI Cache
+# ============================
+
+LightmapSnapshot/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+Assets/**/Lightmap-*.exr
+Assets/**/ReflectionProbe-*.exr
+Assets/**/GIData/
+Assets/**/GIData.meta
+
+# ============================
+# PlasticSCM (just in case)
+# ============================
+
+.plastic/
+PlasticAssets/
+PlasticWorkspace/
+
+# ============================
+# Unity Cloud Build
+# ============================
+
+unitycloudbuild.log
+
+# ============================
+# Build Artifacts
+# ============================
+
+*.log
+*.bak
+*.orig
+*.tmp
+*.temp
+
+# ============================
+# Rider Plugin
+# ============================
+
+*.DotSettings.user
+.rider/
+
+# ============================
+# Auto Generated Meta Files
+# ============================
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ============================
+# Crash Handler
+# ============================
+
+CrashHandler.dll
+
+# ============================
+# Asset Store Tools
+# ============================
+
+Assets/AssetStoreTools*
+
+# ============================
+# Other
+# ============================
+
+*.apk.meta
+*.aab.meta
+*.zip
+*.7z
